@@ -2,7 +2,7 @@
 Port of RFLink Oregon Scientific plugin in C for NXP LPC1xxx MCUs
 
 This is heavily based on the work on RFLink project, for frame decoding, and also 
-on work from https://github.com/boblegal31/Oregon-scientific-OOK-Decoder.git
+on work from https://github.com/Cactusbone/ookDecoder
 for decoding the manchester bit stream coming from the RF 433MHz receiver.
 Only the decoding of Oregon Scientific devices is included, but based on this and
 the code from the original git repository, other kind of equipments could be
